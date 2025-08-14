@@ -1,0 +1,5 @@
+Scenario,AvgLatency(ms)
+Traditional,106.44
+EdgeOnly,94.89
+MECOnly,79.10
+HybridRL,71.36

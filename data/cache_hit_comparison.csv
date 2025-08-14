@@ -1,0 +1,5 @@
+Scenario,CacheHitRatio
+Traditional,0.0000
+EdgeOnly,0.1849
+MECOnly,0.0000
+HybridRL,0.2115
